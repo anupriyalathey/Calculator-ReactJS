@@ -1,5 +1,5 @@
 # Calculator ReactJS
-A simple calculator made using ReactJS
+A simple calculator made using ReactJS.
 
 ### Screenshot:
 ![image](https://user-images.githubusercontent.com/90963726/186406867-36efda5a-2b8f-42da-8c54-ca6233e4e23e.png)
